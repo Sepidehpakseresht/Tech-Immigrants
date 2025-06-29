@@ -39,7 +39,7 @@ You can download the project and open `index.html` in your browser, or deploy it
 
 ## 🤝 Credits
 
-- Background image courtesy of [Freepik](https://www.freepik.com) *(if still in use)*
+- Background image courtesy of [Freepik](https://www.freepik.com) 
 - Icons by [Font Awesome](https://fontawesome.com)
 - Sliders by [Swiper.js](https://swiperjs.com)
 
