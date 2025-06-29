@@ -8,9 +8,7 @@ This project celebrates the mission, values, and stories of tech immigrants arou
 
 ## 🔗 Live Demo
 
-📲 [**Click here to view the live version**](https://sepidehpakseresht.github.io/Tech-Immigrants/)  
-(Available via GitHub Pages once deployed)
-
+📲 [**Click here to view the live version**](https://tech-immigrants.vercel.app/)  
 ---
 
 ## 🛠️ Tech Stack
@@ -30,14 +28,6 @@ This project celebrates the mission, values, and stories of tech immigrants arou
 - Neon-glow styled headlines and buttons
 - Custom background effects (animated stars)
 - Interactive social media icons
-
----
-
-## 🖼️ Screenshots
-
-| Hero Section | Slider |
-|--------------|--------|
-| ![hero](img/Logo.jpeg) | ![slide](img/slide-1.jpg) |
 
 ---
 
